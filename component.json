@@ -1,7 +1,7 @@
 {
   "name": "complexify",
-  "main": ["./jquery.complexify.banlist.js", "./jquery.complexify.js"],
-  "version": "1.0.0",
+  "main": ["./jquery.complexify.banlist.js", "./jquery.complexify.min.js"],
+  "version": "0.3.0",
   "dependencies": {
   }
 }
